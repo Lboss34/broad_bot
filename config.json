@@ -1,0 +1,7 @@
+{
+    "prefix": "-",
+    "cooldown": 5,
+    "logChannel": "logs",
+    "broadcastCommands": ["bc", "broadcast"],
+    "helpCommand": "help"
+}
